@@ -6,5 +6,6 @@
 public class Test001 {
     public static void main(String[] args) {
         System.out.println("Test003");
+        System.out.println("Test003");
     }
 }
